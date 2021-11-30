@@ -11,7 +11,10 @@ This is the companion documentation for the `raspi-IR-surveillance`_ repository.
 .. toctree::
    :maxdepth: 2
 
-   overview
+   01_overview
+   02_hardware-setup
+   03_software-setup
+   04_usage
 
 .. _raspi-IR-surveillance: https://github.com/gwappa/raspi-IR-surveillance
 
